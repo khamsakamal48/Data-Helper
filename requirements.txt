@@ -1,0 +1,14 @@
+requests
+streamlit
+python-dotenv
+regex
+pandas
+fuzzywuzzy
+python-Levenshtein
+nameparser
+plotly-express
+openpyxl
+chardet
+watchdog
+tensorflow
+scikit-learn
